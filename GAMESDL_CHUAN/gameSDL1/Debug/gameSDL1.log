@@ -1,0 +1,44 @@
+﻿Build started 5/19/2021 11:20:37 PM.
+     1>Project "D:\SDL1\gameSDL1\gameSDL1\gameSDL1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp threats.cpp
+         threats.cpp
+     1>d:\sdl1\gamesdl1\gamesdl1\threats.cpp(17): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\sdl1\gamesdl1\gamesdl1\threats.cpp(44): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\sdl1\gamesdl1\gamesdl1\threats.cpp(61): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\sdl1\gamesdl1\gamesdl1\threats.cpp(70): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\sdl1\gamesdl1\gamesdl1\threats.cpp(90): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\sdl1\gamesdl1\gamesdl1\threats.cpp(97): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\sdl1\gamesdl1\gamesdl1\threats.cpp(110): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\sdl1\gamesdl1\gamesdl1\threats.cpp(117): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\sdl1\gamesdl1\gamesdl1\threats.cpp(131): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\sdl1\gamesdl1\gamesdl1\threats.cpp(218): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\sdl1\gamesdl1\gamesdl1\threats.cpp(235): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\sdl1\gamesdl1\gamesdl1\threats.cpp(249): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+         Compiling...
+         main.cpp
+     1>d:\sdl1\gamesdl1\gamesdl1\main.cpp(387): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\sdl1\gamesdl1\gamesdl1\main.cpp(493): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\sdl1\gamesdl1\gamesdl1\main.cpp(597): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\sdl1\gamesdl1\gamesdl1\main.cpp(710): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\sdl1\gamesdl1\gamesdl1\main.cpp(821): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\sdl1\gamesdl1\gamesdl1\main.cpp(939): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\sdl1\gamesdl1\gamesdl1\main.cpp(1173): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SDL1\gameSDL1\Debug\gameSDL1.exe" /INCREMENTAL /NOLOGO SDL.lib SDLmain.lib SDL_image.lib SDL_mixer.lib SDL_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\SDL1\gameSDL1\Debug\gameSDL1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\SDL1\gameSDL1\Debug\gameSDL1.lib" /MACHINE:X86 Debug\gameSDL1.res
+         Debug\Amo.obj
+         Debug\BaseObject.obj
+         Debug\Commonfunc.obj
+         Debug\heart.obj
+         Debug\main.obj
+         Debug\MainObject.obj
+         Debug\textobject.obj
+         Debug\threats.obj
+         gameSDL1.vcxproj -> D:\SDL1\gameSDL1\Debug\gameSDL1.exe
+     1>Done Building Project "D:\SDL1\gameSDL1\gameSDL1\gameSDL1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.33
