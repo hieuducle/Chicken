@@ -5,7 +5,10 @@
 
 ## Descriptions
 * Build chicken shooting game program using c++ and SDL
-  
+
+<a href="[https://github.com/hieuducle/TenisVision/](https://www.youtube.com/watch?v=24s7tmNJ-as)">
+    This is demo link.
+   </a>
 <p align="center">
   <img src="chicken.gif" width=600><br/>
   <i>Camera app demo</i>
