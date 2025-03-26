@@ -7,8 +7,9 @@
 * Build chicken shooting game program using c++ and SDL
 
 <a href="https://www.youtube.com/watch?v=24s7tmNJ-as">
-    This is demo link.
+    This is demo link on youtube.
    </a>
+  
 <p align="center">
   <img src="chicken.gif" width=600><br/>
   <i>Camera app demo</i>
